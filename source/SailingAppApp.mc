@@ -17,6 +17,7 @@ class SailingAppApp extends Application.AppBase {
     var callbackcounter = 0;
     var positionInfo;
     var lastPositionData;
+    var sensorInfo;
 
     var COGField0;
     var COGField1;
@@ -34,21 +35,21 @@ class SailingAppApp extends Application.AppBase {
     var LatField;
     var LonField;
 
-    var COGDataDeg0;
-    var COGDataDeg1;
-    var COGDataDeg2;
-    var COGDataDeg3;
-    var SOGData0;
-    var SOGData1;
-    var SOGData2;
-    var SOGData3;
-    var PitchData;
-    var RollData0;
-    var RollData1;
-    var RollData2;
-    var RollData3;
+    var COGData0 = -1;
+    var COGData1 = -1;
+    var COGData2 = -1;
+    var COGData3 = -1;
+    var SOGData0 = -1;
+    var SOGData1 = -1;
+    var SOGData2 = -1;
+    var SOGData3 = -1;
+    var PitchData = -1;
+    var RollData0 = -1;
+    var RollData1 = -1;
+    var RollData2 = -1;
+    var RollData3 = -1;
     var PosData;
-    var DegData = [0.0, 0.0];
+    var DegData = [-1, -1];
 
     function initialize() {
         AppBase.initialize();
@@ -84,13 +85,16 @@ class SailingAppApp extends Application.AppBase {
         timer += 1;
         view.update();
         collect_data(data);
+        if (datatimerrunning == false) {
+            datatimer.start(method(:collect_2data), 250, true);
+            datatimerrunning = true;
+        }
         set_data(DegData);
     }
 
     function location_data(data as $.Toybox.Position.Info) as Void{
-        if (datatimerrunning == false) {
-            datatimer.start(method(:collect_2data), 250, true);
-            datatimerrunning = true;
+        if (data != positionInfo) {
+            positionInfo = data;
         }
     }
 
@@ -103,24 +107,24 @@ class SailingAppApp extends Application.AppBase {
     }
 
     function collect_2data() as Void {
-        positionInfo = Position.getInfo();
+        sensorInfo = Sensor.getInfo() as $.Toybox.Sensor.Info;
 
         if (callbackcounter==0) {
             PosData = positionInfo.position;
-            COGDataDeg0 = positionInfo.heading;
+            COGData0 = sensorInfo.heading;
             SOGData0 = positionInfo.speed;
         }
         if (callbackcounter==1) {
-            COGDataDeg1 = positionInfo.heading;
-            SOGData1 = positionInfo.speed;
+            COGData1 = sensorInfo.heading;
+            //SOGData1 = positionInfo.speed;
         }
         if (callbackcounter==2) {
-            COGDataDeg2 = positionInfo.heading;
-            SOGData2 = positionInfo.speed;
+            COGData2 = sensorInfo.heading;
+            //SOGData2 = positionInfo.speed;
         }
         if (callbackcounter==3) {
-            COGDataDeg3 = positionInfo.heading;
-            SOGData3 = positionInfo.speed;
+            COGData3 = sensorInfo.heading;
+            //SOGData3 = positionInfo.speed;
             callbackcounter = 0;
         }
         callbackcounter = callbackcounter + 1;
@@ -129,11 +133,11 @@ class SailingAppApp extends Application.AppBase {
 
     function set_data(tmp as Array<Float>) as Void {
         var degdata = tmp;
-        if (COGDataDeg0 != null and COGDataDeg1 != null and COGDataDeg2 != null and COGDataDeg3 != null) {
-            COGField0.setData(COGDataDeg0);
-            COGField1.setData(COGDataDeg1);
-            COGField2.setData(COGDataDeg2);
-            COGField3.setData(COGDataDeg3);
+        if (COGData0 != null and COGData1 != null and COGData2 != null and COGData3 != null) {
+            COGField0.setData(COGData0);
+            COGField1.setData(COGData1);
+            COGField2.setData(COGData2);
+            COGField3.setData(COGData3);
         }
         else{
             COGField0.setData(-1);
@@ -142,11 +146,11 @@ class SailingAppApp extends Application.AppBase {
             COGField3.setData(-1);  
         }
 
-        if (SOGData0 != null and SOGData1 != null and SOGData2 != null and SOGData3 != null) {
+        if (SOGData0 != null) {
             SOGField0.setData(SOGData0);
-            SOGField1.setData(SOGData1);
-            SOGField2.setData(SOGData2);
-            SOGField3.setData(SOGData3);
+            //SOGField1.setData(SOGData1);
+            //SOGField2.setData(SOGData2);
+            //SOGField3.setData(SOGData3);
         }
         else{
             SOGField0.setData(-1);

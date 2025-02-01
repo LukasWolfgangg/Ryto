@@ -31,7 +31,7 @@ module Rez {
 c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_start:
 [ "c:\Users\Gymnasiet\SailingApp\bin\gen\006-B3906-00\source\Rez.mcgen" 14 12 ]
             [ "c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_start" "c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_stop" ]
-            %rez_cmp_local_text_8163512541.1 = local;
+            %rez_cmp_local_text_2091496019.1 = local;
             %tmp.3 = getm $.Toybox.WatchUi;
             %tmp.4 = getv function ? %tmp.3 :Text;
             %tmp.5 = newd 6;
@@ -68,7 +68,7 @@ c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_st
             %tmp.42 = dup %tmp.37;
             %tmp.43 = aputv %tmp.42 %tmp.39 %tmp.41;
             %tmp.1 = newc %tmp.4 (%tmp.43);
-            lputv %rez_cmp_local_text_8163512541.1 %tmp.1;
+            lputv %rez_cmp_local_text_2091496019.1 %tmp.1;
 [ "c:\Users\Gymnasiet\SailingApp\bin\gen\006-B3906-00\source\Rez.mcgen" 16 12 ]
             [ "c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_start" "c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_stop" ]
             %rez_cmp_local_text_time.2 = local;
@@ -116,7 +116,7 @@ c_Users_Gymnasiet_SailingApp_bin_gen_006_B3906_00_source_Rez_mcgen_13_74_19_8_st
             lputv %rez_cmp_local_text_time.2 %tmp.44;
 [ "c:\Users\Gymnasiet\SailingApp\bin\gen\006-B3906-00\source\Rez.mcgen" 18 12 ]
             %tmp.92 = newa 2 Array<WatchUi.Drawable>;
-            %tmp.94 = lgetv %rez_cmp_local_text_8163512541.1;
+            %tmp.94 = lgetv %rez_cmp_local_text_2091496019.1;
             %tmp.95 = dup %tmp.92;
             %tmp.96 = aputv %tmp.95 0 %tmp.94;
             %tmp.98 = lgetv %rez_cmp_local_text_time.2;

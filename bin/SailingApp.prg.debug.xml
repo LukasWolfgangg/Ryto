@@ -5,173 +5,164 @@
 <entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="1" lineNum="12" parent="globals/SailingAppApp" pc="268435460" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="1" lineNum="15" parent="globals/SailingAppApp" pc="268435471" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="2" lineNum="5" parent="globals/SailingAppMenuDelegate" pc="268435501" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="3" lineNum="226" parent="globals" pc="268435513" symbol="getApp"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="3" lineNum="227" parent="globals" pc="268435523" symbol="getApp"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="3" lineNum="228" parent="globals" pc="268435513" symbol="getApp"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="3" lineNum="229" parent="globals" pc="268435523" symbol="getApp"/>
 <entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268435534" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="5" lineNum="11" parent="globals/SailingAppView" pc="268435554" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="6" lineNum="4" parent="globals/SailingAppDelegate" pc="268435566" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="83" parent="globals/SailingAppApp" pc="268435578" symbol="collecttimer"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="84" parent="globals/SailingAppApp" pc="268435580" symbol="collecttimer"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="85" parent="globals/SailingAppApp" pc="268435595" symbol="collecttimer"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="86" parent="globals/SailingAppApp" pc="268435607" symbol="collecttimer"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="87" parent="globals/SailingAppApp" pc="268435618" symbol="collecttimer"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="8" lineNum="221" parent="globals/SailingAppApp" pc="268435633" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="8" lineNum="222" parent="globals/SailingAppApp" pc="268435635" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="58" parent="globals/SailingAppApp" pc="268435690" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="59" parent="globals/SailingAppApp" pc="268435693" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="61" parent="globals/SailingAppApp" pc="268435722" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="62" parent="globals/SailingAppApp" pc="268435765" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="63" parent="globals/SailingAppApp" pc="268435777" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="65" parent="globals/SailingAppApp" pc="268435784" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="75" parent="globals/SailingAppApp" pc="268435839" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="79" parent="globals/SailingAppApp" pc="268435854" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="80" parent="globals/SailingAppApp" pc="268435882" symbol="onStart"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="90" parent="globals/SailingAppApp" pc="268435911" symbol="location_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="91" parent="globals/SailingAppApp" pc="268435913" symbol="location_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="92" parent="globals/SailingAppApp" pc="268435922" symbol="location_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="93" parent="globals/SailingAppApp" pc="268435932" symbol="location_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="94" parent="globals/SailingAppApp" pc="268435963" symbol="location_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="106" parent="globals/SailingAppApp" pc="268435975" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="107" parent="globals/SailingAppApp" pc="268435977" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="108" parent="globals/SailingAppApp" pc="268435989" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="110" parent="globals/SailingAppApp" pc="268436008" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="111" parent="globals/SailingAppApp" pc="268436018" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="112" parent="globals/SailingAppApp" pc="268436035" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="113" parent="globals/SailingAppApp" pc="268436052" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="115" parent="globals/SailingAppApp" pc="268436072" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="116" parent="globals/SailingAppApp" pc="268436083" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="117" parent="globals/SailingAppApp" pc="268436100" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="119" parent="globals/SailingAppApp" pc="268436120" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="120" parent="globals/SailingAppApp" pc="268436131" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="121" parent="globals/SailingAppApp" pc="268436148" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="123" parent="globals/SailingAppApp" pc="268436168" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="124" parent="globals/SailingAppApp" pc="268436179" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="125" parent="globals/SailingAppApp" pc="268436196" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="126" parent="globals/SailingAppApp" pc="268436213" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="128" parent="globals/SailingAppApp" pc="268436224" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="129" parent="globals/SailingAppApp" pc="268436239" symbol="collect_2data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="213" parent="globals/SailingAppApp" pc="268436248" symbol="onStop"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="214" parent="globals/SailingAppApp" pc="268436250" symbol="onStop"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="215" parent="globals/SailingAppApp" pc="268436262" symbol="onStop"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="216" parent="globals/SailingAppApp" pc="268436274" symbol="onStop"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="217" parent="globals/SailingAppApp" pc="268436286" symbol="onStop"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="189" parent="globals/SailingAppApp" pc="268436298" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="190" parent="globals/SailingAppApp" pc="268436300" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="191" parent="globals/SailingAppApp" pc="268436331" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="192" parent="globals/SailingAppApp" pc="268436362" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="193" parent="globals/SailingAppApp" pc="268436393" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="195" parent="globals/SailingAppApp" pc="268436424" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="196" parent="globals/SailingAppApp" pc="268436455" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="197" parent="globals/SailingAppApp" pc="268436486" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="198" parent="globals/SailingAppApp" pc="268436517" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="200" parent="globals/SailingAppApp" pc="268436548" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="202" parent="globals/SailingAppApp" pc="268436579" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="203" parent="globals/SailingAppApp" pc="268436610" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="204" parent="globals/SailingAppApp" pc="268436641" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="205" parent="globals/SailingAppApp" pc="268436672" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="207" parent="globals/SailingAppApp" pc="268436703" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="208" parent="globals/SailingAppApp" pc="268436734" symbol="createfields"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="98" parent="globals/SailingAppApp" pc="268436766" symbol="collect_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="99" parent="globals/SailingAppApp" pc="268436768" symbol="collect_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="100" parent="globals/SailingAppApp" pc="268436788" symbol="collect_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="101" parent="globals/SailingAppApp" pc="268436808" symbol="collect_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="102" parent="globals/SailingAppApp" pc="268436829" symbol="collect_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="103" parent="globals/SailingAppApp" pc="268436850" symbol="collect_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="15" lineNum="53" parent="globals/SailingAppApp" pc="268436872" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="15" lineNum="54" parent="globals/SailingAppApp" pc="268436874" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="132" parent="globals/SailingAppApp" pc="268436887" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="133" parent="globals/SailingAppApp" pc="268436890" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="134" parent="globals/SailingAppApp" pc="268436894" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="135" parent="globals/SailingAppApp" pc="268436930" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="136" parent="globals/SailingAppApp" pc="268436949" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="137" parent="globals/SailingAppApp" pc="268436968" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="138" parent="globals/SailingAppApp" pc="268436987" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="141" parent="globals/SailingAppApp" pc="268437009" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="142" parent="globals/SailingAppApp" pc="268437025" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="143" parent="globals/SailingAppApp" pc="268437041" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="144" parent="globals/SailingAppApp" pc="268437057" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="147" parent="globals/SailingAppApp" pc="268437073" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="148" parent="globals/SailingAppApp" pc="268437109" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="149" parent="globals/SailingAppApp" pc="268437128" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="150" parent="globals/SailingAppApp" pc="268437147" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="151" parent="globals/SailingAppApp" pc="268437166" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="154" parent="globals/SailingAppApp" pc="268437188" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="155" parent="globals/SailingAppApp" pc="268437204" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="156" parent="globals/SailingAppApp" pc="268437220" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="157" parent="globals/SailingAppApp" pc="268437236" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="160" parent="globals/SailingAppApp" pc="268437252" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="161" parent="globals/SailingAppApp" pc="268437261" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="164" parent="globals/SailingAppApp" pc="268437283" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="167" parent="globals/SailingAppApp" pc="268437299" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="168" parent="globals/SailingAppApp" pc="268437308" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="169" parent="globals/SailingAppApp" pc="268437327" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="170" parent="globals/SailingAppApp" pc="268437346" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="171" parent="globals/SailingAppApp" pc="268437365" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="174" parent="globals/SailingAppApp" pc="268437387" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="175" parent="globals/SailingAppApp" pc="268437403" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="176" parent="globals/SailingAppApp" pc="268437419" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="177" parent="globals/SailingAppApp" pc="268437435" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="180" parent="globals/SailingAppApp" pc="268437451" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="181" parent="globals/SailingAppApp" pc="268437460" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="182" parent="globals/SailingAppApp" pc="268437478" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="184" parent="globals/SailingAppApp" pc="268437500" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="185" parent="globals/SailingAppApp" pc="268437516" symbol="set_data"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="11" parent="globals/SailingAppMenuDelegate" pc="268437533" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="12" parent="globals/SailingAppMenuDelegate" pc="268437535" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="13" parent="globals/SailingAppMenuDelegate" pc="268437546" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="14" parent="globals/SailingAppMenuDelegate" pc="268437567" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="15" parent="globals/SailingAppMenuDelegate" pc="268437578" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="18" lineNum="7" parent="globals/SailingAppMenuDelegate" pc="268437600" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="18" lineNum="8" parent="globals/SailingAppMenuDelegate" pc="268437602" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="20" lineNum="23" parent="globals/SailingAppView" pc="268437615" symbol="onLayout"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="20" lineNum="24" parent="globals/SailingAppView" pc="268437617" symbol="onLayout"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="21" lineNum="13" parent="globals/SailingAppView" pc="268437651" symbol="update"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="21" lineNum="14" parent="globals/SailingAppView" pc="268437653" symbol="update"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="22" lineNum="18" parent="globals/SailingAppView" pc="268437665" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="22" lineNum="19" parent="globals/SailingAppView" pc="268437667" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="35" parent="globals/SailingAppView" pc="268437680" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="36" parent="globals/SailingAppView" pc="268437683" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="37" parent="globals/SailingAppView" pc="268437707" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="38" parent="globals/SailingAppView" pc="268437734" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="40" parent="globals/SailingAppView" pc="268437757" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="42" parent="globals/SailingAppView" pc="268437815" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="44" parent="globals/SailingAppView" pc="268437835" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="46" parent="globals/SailingAppView" pc="268437847" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="25" lineNum="10" parent="globals/SailingAppDelegate" pc="268437864" symbol="onMenu"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="25" lineNum="11" parent="globals/SailingAppDelegate" pc="268437866" symbol="onMenu"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="25" lineNum="12" parent="globals/SailingAppDelegate" pc="268437935" symbol="onMenu"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="26" lineNum="6" parent="globals/SailingAppDelegate" pc="268437937" symbol="initialize"/>
-<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="26" lineNum="7" parent="globals/SailingAppDelegate" pc="268437939" symbol="initialize"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="13" parent="globals/Rez/Layouts" pc="268437952" symbol="MainLayout"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="14" parent="globals/Rez/Layouts" pc="268437963" symbol="MainLayout"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="16" parent="globals/Rez/Layouts" pc="268438063" symbol="MainLayout"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="18" parent="globals/Rez/Layouts" pc="268438168" symbol="MainLayout"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="28" lineNum="23" parent="globals/Rez/Menus/MainMenu" pc="268438183" symbol="&lt;init&gt;"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="24" parent="globals/Rez/Menus/MainMenu" pc="268438195" symbol="initialize"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268438197" symbol="initialize"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="26" parent="globals/Rez/Menus/MainMenu" pc="268438209" symbol="initialize"/>
-<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268438254" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="84" parent="globals/SailingAppApp" pc="268435578" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="85" parent="globals/SailingAppApp" pc="268435580" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="86" parent="globals/SailingAppApp" pc="268435595" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="87" parent="globals/SailingAppApp" pc="268435607" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="88" parent="globals/SailingAppApp" pc="268435618" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="89" parent="globals/SailingAppApp" pc="268435628" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="90" parent="globals/SailingAppApp" pc="268435659" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="7" lineNum="92" parent="globals/SailingAppApp" pc="268435670" symbol="collecttimer"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="8" lineNum="223" parent="globals/SailingAppApp" pc="268435685" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="8" lineNum="224" parent="globals/SailingAppApp" pc="268435687" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="59" parent="globals/SailingAppApp" pc="268435742" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="60" parent="globals/SailingAppApp" pc="268435745" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="62" parent="globals/SailingAppApp" pc="268435774" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="63" parent="globals/SailingAppApp" pc="268435817" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="64" parent="globals/SailingAppApp" pc="268435829" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="66" parent="globals/SailingAppApp" pc="268435836" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="76" parent="globals/SailingAppApp" pc="268435891" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="80" parent="globals/SailingAppApp" pc="268435906" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="9" lineNum="81" parent="globals/SailingAppApp" pc="268435934" symbol="onStart"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="95" parent="globals/SailingAppApp" pc="268435963" symbol="location_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="96" parent="globals/SailingAppApp" pc="268435965" symbol="location_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="10" lineNum="97" parent="globals/SailingAppApp" pc="268435976" symbol="location_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="109" parent="globals/SailingAppApp" pc="268435989" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="110" parent="globals/SailingAppApp" pc="268435991" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="112" parent="globals/SailingAppApp" pc="268436008" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="113" parent="globals/SailingAppApp" pc="268436018" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="114" parent="globals/SailingAppApp" pc="268436035" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="115" parent="globals/SailingAppApp" pc="268436052" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="117" parent="globals/SailingAppApp" pc="268436072" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="118" parent="globals/SailingAppApp" pc="268436083" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="121" parent="globals/SailingAppApp" pc="268436103" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="122" parent="globals/SailingAppApp" pc="268436114" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="125" parent="globals/SailingAppApp" pc="268436134" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="126" parent="globals/SailingAppApp" pc="268436145" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="128" parent="globals/SailingAppApp" pc="268436162" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="130" parent="globals/SailingAppApp" pc="268436173" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="11" lineNum="131" parent="globals/SailingAppApp" pc="268436188" symbol="collect_2data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="215" parent="globals/SailingAppApp" pc="268436197" symbol="onStop"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="216" parent="globals/SailingAppApp" pc="268436199" symbol="onStop"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="217" parent="globals/SailingAppApp" pc="268436211" symbol="onStop"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="218" parent="globals/SailingAppApp" pc="268436223" symbol="onStop"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="12" lineNum="219" parent="globals/SailingAppApp" pc="268436235" symbol="onStop"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="191" parent="globals/SailingAppApp" pc="268436247" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="192" parent="globals/SailingAppApp" pc="268436249" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="193" parent="globals/SailingAppApp" pc="268436280" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="194" parent="globals/SailingAppApp" pc="268436311" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="195" parent="globals/SailingAppApp" pc="268436342" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="197" parent="globals/SailingAppApp" pc="268436373" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="198" parent="globals/SailingAppApp" pc="268436404" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="199" parent="globals/SailingAppApp" pc="268436435" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="200" parent="globals/SailingAppApp" pc="268436466" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="202" parent="globals/SailingAppApp" pc="268436497" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="204" parent="globals/SailingAppApp" pc="268436528" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="205" parent="globals/SailingAppApp" pc="268436559" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="206" parent="globals/SailingAppApp" pc="268436590" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="207" parent="globals/SailingAppApp" pc="268436621" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="209" parent="globals/SailingAppApp" pc="268436652" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="13" lineNum="210" parent="globals/SailingAppApp" pc="268436683" symbol="createfields"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="101" parent="globals/SailingAppApp" pc="268436715" symbol="collect_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="102" parent="globals/SailingAppApp" pc="268436717" symbol="collect_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="103" parent="globals/SailingAppApp" pc="268436737" symbol="collect_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="104" parent="globals/SailingAppApp" pc="268436757" symbol="collect_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="105" parent="globals/SailingAppApp" pc="268436778" symbol="collect_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="14" lineNum="106" parent="globals/SailingAppApp" pc="268436799" symbol="collect_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="15" lineNum="54" parent="globals/SailingAppApp" pc="268436821" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="15" lineNum="55" parent="globals/SailingAppApp" pc="268436823" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="134" parent="globals/SailingAppApp" pc="268436836" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="135" parent="globals/SailingAppApp" pc="268436839" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="136" parent="globals/SailingAppApp" pc="268436843" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="137" parent="globals/SailingAppApp" pc="268436879" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="138" parent="globals/SailingAppApp" pc="268436898" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="139" parent="globals/SailingAppApp" pc="268436917" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="140" parent="globals/SailingAppApp" pc="268436936" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="143" parent="globals/SailingAppApp" pc="268436958" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="144" parent="globals/SailingAppApp" pc="268436974" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="145" parent="globals/SailingAppApp" pc="268436990" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="146" parent="globals/SailingAppApp" pc="268437006" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="149" parent="globals/SailingAppApp" pc="268437022" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="150" parent="globals/SailingAppApp" pc="268437031" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="156" parent="globals/SailingAppApp" pc="268437053" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="157" parent="globals/SailingAppApp" pc="268437069" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="158" parent="globals/SailingAppApp" pc="268437085" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="159" parent="globals/SailingAppApp" pc="268437101" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="162" parent="globals/SailingAppApp" pc="268437117" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="163" parent="globals/SailingAppApp" pc="268437126" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="166" parent="globals/SailingAppApp" pc="268437148" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="169" parent="globals/SailingAppApp" pc="268437164" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="170" parent="globals/SailingAppApp" pc="268437173" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="171" parent="globals/SailingAppApp" pc="268437192" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="172" parent="globals/SailingAppApp" pc="268437211" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="173" parent="globals/SailingAppApp" pc="268437230" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="176" parent="globals/SailingAppApp" pc="268437252" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="177" parent="globals/SailingAppApp" pc="268437268" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="178" parent="globals/SailingAppApp" pc="268437284" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="179" parent="globals/SailingAppApp" pc="268437300" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="182" parent="globals/SailingAppApp" pc="268437316" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="183" parent="globals/SailingAppApp" pc="268437325" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="184" parent="globals/SailingAppApp" pc="268437343" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="186" parent="globals/SailingAppApp" pc="268437365" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppApp.mc" id="16" lineNum="187" parent="globals/SailingAppApp" pc="268437381" symbol="set_data"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="11" parent="globals/SailingAppMenuDelegate" pc="268437398" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="12" parent="globals/SailingAppMenuDelegate" pc="268437400" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="13" parent="globals/SailingAppMenuDelegate" pc="268437411" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="14" parent="globals/SailingAppMenuDelegate" pc="268437432" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="17" lineNum="15" parent="globals/SailingAppMenuDelegate" pc="268437443" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="18" lineNum="7" parent="globals/SailingAppMenuDelegate" pc="268437465" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppMenuDelegate.mc" id="18" lineNum="8" parent="globals/SailingAppMenuDelegate" pc="268437467" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="20" lineNum="23" parent="globals/SailingAppView" pc="268437480" symbol="onLayout"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="20" lineNum="24" parent="globals/SailingAppView" pc="268437482" symbol="onLayout"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="21" lineNum="13" parent="globals/SailingAppView" pc="268437516" symbol="update"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="21" lineNum="14" parent="globals/SailingAppView" pc="268437518" symbol="update"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="22" lineNum="18" parent="globals/SailingAppView" pc="268437530" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="22" lineNum="19" parent="globals/SailingAppView" pc="268437532" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="35" parent="globals/SailingAppView" pc="268437545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="36" parent="globals/SailingAppView" pc="268437548" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="37" parent="globals/SailingAppView" pc="268437572" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="38" parent="globals/SailingAppView" pc="268437599" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="40" parent="globals/SailingAppView" pc="268437622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="42" parent="globals/SailingAppView" pc="268437680" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="44" parent="globals/SailingAppView" pc="268437700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppView.mc" id="24" lineNum="46" parent="globals/SailingAppView" pc="268437712" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="25" lineNum="10" parent="globals/SailingAppDelegate" pc="268437729" symbol="onMenu"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="25" lineNum="11" parent="globals/SailingAppDelegate" pc="268437731" symbol="onMenu"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="25" lineNum="12" parent="globals/SailingAppDelegate" pc="268437800" symbol="onMenu"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="26" lineNum="6" parent="globals/SailingAppDelegate" pc="268437802" symbol="initialize"/>
+<entry filename="C:\\Users\\Gymnasiet\\SailingApp\\source\\SailingAppDelegate.mc" id="26" lineNum="7" parent="globals/SailingAppDelegate" pc="268437804" symbol="initialize"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="13" parent="globals/Rez/Layouts" pc="268437817" symbol="MainLayout"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="14" parent="globals/Rez/Layouts" pc="268437828" symbol="MainLayout"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="16" parent="globals/Rez/Layouts" pc="268437928" symbol="MainLayout"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="27" lineNum="18" parent="globals/Rez/Layouts" pc="268438033" symbol="MainLayout"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="28" lineNum="23" parent="globals/Rez/Menus/MainMenu" pc="268438048" symbol="&lt;init&gt;"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="24" parent="globals/Rez/Menus/MainMenu" pc="268438060" symbol="initialize"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268438062" symbol="initialize"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="26" parent="globals/Rez/Menus/MainMenu" pc="268438074" symbol="initialize"/>
+<entry filename="c:\\Users\\Gymnasiet\\SailingApp\\bin\\gen\\006-B3906-00\\source\\Rez.mcgen" id="29" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268438119" symbol="initialize"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="7" object="true" symbol="SailingAppApp"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="52" symbol="sensorInfo"/>
 <entry id="8389346" symbol="text"/>
-<entry field="true" id="15" symbol="COGDataDeg3"/>
-<entry field="true" id="14" symbol="COGDataDeg2"/>
-<entry field="true" id="13" symbol="COGDataDeg1"/>
-<entry field="true" id="12" symbol="COGDataDeg0"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="5" module="true" symbol="globals/Rez/Menus"/>
 <entry id="8391715" symbol="acquisitionType"/>
 <entry id="8388638" module="true" symbol="ActivityRecording"/>
 <entry id="10" object="true" symbol="SailingAppView"/>
-<entry id="58" method="true" symbol="MainLayout"/>
+<entry id="59" method="true" symbol="MainLayout"/>
 <entry field="true" id="11" symbol="timer"/>
 <entry field="true" id="33" symbol="RollField3"/>
 <entry field="true" id="32" symbol="RollField2"/>
 <entry field="true" id="31" symbol="RollField1"/>
 <entry field="true" id="30" symbol="RollField0"/>
-<entry id="53" method="true" symbol="set_data"/>
+<entry id="54" method="true" symbol="set_data"/>
 <entry field="true" id="8388890" symbol="sport"/>
 <entry field="true" id="22" symbol="LonField"/>
 <entry field="true" id="47" symbol="datatimer"/>
@@ -180,7 +171,7 @@
 <entry field="true" id="49" symbol="lastPositionData"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry field="true" id="42" symbol="callbackcounter"/>
-<entry field="true" id="60" symbol="AppName"/>
+<entry field="true" id="61" symbol="AppName"/>
 <entry id="6" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry field="true" id="37" symbol="SOGData3"/>
@@ -190,15 +181,15 @@
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
 <entry field="true" id="48" symbol="datatimerrunning"/>
-<entry field="true" id="63" symbol="prompt"/>
+<entry field="true" id="64" symbol="prompt"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry id="65" symbol="item_2"/>
-<entry id="64" symbol="item_1"/>
-<entry id="56" module="true" symbol="Menus"/>
+<entry id="66" symbol="item_2"/>
+<entry id="65" symbol="item_1"/>
+<entry id="57" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
 <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
@@ -212,7 +203,7 @@
 <entry field="true" id="38" symbol="SOGField0"/>
 <entry id="8390648" symbol="accelerometer"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-<entry id="59" object="true" symbol="MainMenu"/>
+<entry id="60" object="true" symbol="MainMenu"/>
 <entry field="true" id="8390438" symbol="enabled"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="50" method="true" symbol="location_data"/>
@@ -221,7 +212,7 @@
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="9" object="true" symbol="SailingAppMenuDelegate"/>
 <entry id="45" method="true" symbol="collecttimer"/>
-<entry field="true" id="57" symbol="LauncherIcon"/>
+<entry field="true" id="58" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388643" module="true" symbol="Sensor"/>
@@ -233,7 +224,7 @@
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="8389780" module="true" symbol="FitContributor"/>
 <entry field="true" id="21" symbol="LatField"/>
-<entry field="true" id="54" symbol="view"/>
+<entry field="true" id="55" symbol="view"/>
 <entry field="true" id="25" symbol="PosData"/>
 <entry field="true" id="29" symbol="RollData3"/>
 <entry field="true" id="28" symbol="RollData2"/>
@@ -252,38 +243,42 @@
 <entry id="8389347" symbol="color"/>
 <entry field="true" id="51" symbol="positionInfo"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
-<entry id="55" module="true" symbol="Layouts"/>
+<entry id="56" module="true" symbol="Layouts"/>
 <entry id="8388642" module="true" symbol="Position"/>
+<entry field="true" id="15" symbol="COGData3"/>
+<entry field="true" id="14" symbol="COGData2"/>
+<entry field="true" id="13" symbol="COGData1"/>
+<entry field="true" id="12" symbol="COGData0"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8390514" method="true" symbol="update"/>
-<entry field="true" id="52" symbol="session"/>
+<entry field="true" id="53" symbol="session"/>
 <entry id="8388635" module="true" symbol="Application"/>
 <entry field="true" id="24" symbol="PitchField"/>
-<entry field="true" id="62" symbol="menu_label_2"/>
-<entry field="true" id="61" symbol="menu_label_1"/>
+<entry field="true" id="63" symbol="menu_label_2"/>
+<entry field="true" id="62" symbol="menu_label_1"/>
 <entry id="20" symbol="DegData"/>
 </symbolTable>
 <localVars>
-<entry arg="true" endPc="268435632" name="data" stackId="1" startPc="268435578"/>
-<entry arg="true" endPc="268435910" name="state" stackId="1" startPc="268435690"/>
-<entry endPc="268435909" name="Sensoroptions" stackId="2" startPc="268435693"/>
-<entry endPc="268435909" name="Posoptions" stackId="3" startPc="268435693"/>
-<entry arg="true" endPc="268435974" name="data" stackId="1" startPc="268435911"/>
-<entry arg="true" endPc="268436297" name="state" stackId="1" startPc="268436248"/>
-<entry arg="true" endPc="268436871" name="data" stackId="1" startPc="268436766"/>
-<entry arg="true" endPc="268437532" name="tmp" stackId="1" startPc="268436887"/>
-<entry endPc="268437531" name="degdata" stackId="2" startPc="268436890"/>
-<entry arg="true" endPc="268437599" name="item" stackId="1" startPc="268437533"/>
-<entry arg="true" endPc="268437650" name="dc" stackId="1" startPc="268437615"/>
-<entry arg="true" endPc="268437863" name="dc" stackId="1" startPc="268437680"/>
-<entry endPc="268437862" name="hours" stackId="2" startPc="268437683"/>
-<entry endPc="268437862" name="minutes" stackId="3" startPc="268437683"/>
-<entry endPc="268437862" name="seconds" stackId="4" startPc="268437683"/>
-<entry endPc="268437862" name="textstring" stackId="5" startPc="268437683"/>
-<entry endPc="268437862" name="timeText" stackId="6" startPc="268437683"/>
-<entry arg="true" endPc="268438182" name="dc" stackId="1" startPc="268437952"/>
-<entry endPc="268438182" name="rez_cmp_local_text_8163512541" stackId="2" startPc="268437963"/>
-<entry endPc="268438182" name="rez_cmp_local_text_time" stackId="3" startPc="268437963"/>
+<entry arg="true" endPc="268435684" name="data" stackId="1" startPc="268435578"/>
+<entry arg="true" endPc="268435962" name="state" stackId="1" startPc="268435742"/>
+<entry endPc="268435961" name="Sensoroptions" stackId="2" startPc="268435745"/>
+<entry endPc="268435961" name="Posoptions" stackId="3" startPc="268435745"/>
+<entry arg="true" endPc="268435988" name="data" stackId="1" startPc="268435963"/>
+<entry arg="true" endPc="268436246" name="state" stackId="1" startPc="268436197"/>
+<entry arg="true" endPc="268436820" name="data" stackId="1" startPc="268436715"/>
+<entry arg="true" endPc="268437397" name="tmp" stackId="1" startPc="268436836"/>
+<entry endPc="268437396" name="degdata" stackId="2" startPc="268436839"/>
+<entry arg="true" endPc="268437464" name="item" stackId="1" startPc="268437398"/>
+<entry arg="true" endPc="268437515" name="dc" stackId="1" startPc="268437480"/>
+<entry arg="true" endPc="268437728" name="dc" stackId="1" startPc="268437545"/>
+<entry endPc="268437727" name="hours" stackId="2" startPc="268437548"/>
+<entry endPc="268437727" name="minutes" stackId="3" startPc="268437548"/>
+<entry endPc="268437727" name="seconds" stackId="4" startPc="268437548"/>
+<entry endPc="268437727" name="textstring" stackId="5" startPc="268437548"/>
+<entry endPc="268437727" name="timeText" stackId="6" startPc="268437548"/>
+<entry arg="true" endPc="268438047" name="dc" stackId="1" startPc="268437817"/>
+<entry endPc="268438047" name="rez_cmp_local_text_2091496019" stackId="2" startPc="268437828"/>
+<entry endPc="268438047" name="rez_cmp_local_text_time" stackId="3" startPc="268437828"/>
 </localVars>
 <deviceInfo deviceVersion="4866e5192c0c99025597cd8e6e841f3d774b64f7" partNumber="006-B3906-00"/>
 <annotations>
@@ -296,15 +291,15 @@
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
 <dataEntry label="globals/SailingAppApp" offset="161" parentId="globals" symbolId="SailingAppApp" type="class"/>
-<dataEntry label="globals/SailingAppMenuDelegate" offset="619" parentId="globals" symbolId="SailingAppMenuDelegate" type="class"/>
-<dataEntry label="globals/Rez" offset="672" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/SailingAppView" offset="734" parentId="globals" symbolId="SailingAppView" type="class"/>
-<dataEntry label="globals/SailingAppDelegate" offset="823" parentId="globals" symbolId="SailingAppDelegate" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="876" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="911" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="946" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="981" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/Menus/MainMenu" offset="1043" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry label="globals/SailingAppMenuDelegate" offset="628" parentId="globals" symbolId="SailingAppMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="681" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/SailingAppView" offset="743" parentId="globals" symbolId="SailingAppView" type="class"/>
+<dataEntry label="globals/SailingAppDelegate" offset="832" parentId="globals" symbolId="SailingAppDelegate" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="885" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="920" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="955" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="990" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="1052" parentId="Menus" symbolId="MainMenu" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435500" name="&lt;init&gt;" parent="SailingAppApp" startPc="268435460">
@@ -325,47 +320,47 @@
 <functionEntry accessMode="public" endPc="268435577" name="&lt;init&gt;" parent="SailingAppDelegate" startPc="268435566">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435632" name="collecttimer" parent="SailingAppApp" startPc="268435578">
+<functionEntry accessMode="public" endPc="268435684" name="collecttimer" parent="SailingAppApp" startPc="268435578">
 <param id="data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435689" name="getInitialView" parent="SailingAppApp" startPc="268435633">
+<functionEntry accessMode="public" endPc="268435741" name="getInitialView" parent="SailingAppApp" startPc="268435685">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435910" name="onStart" parent="SailingAppApp" startPc="268435690">
+<functionEntry accessMode="public" endPc="268435962" name="onStart" parent="SailingAppApp" startPc="268435742">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435974" name="location_data" parent="SailingAppApp" startPc="268435911">
+<functionEntry accessMode="public" endPc="268435988" name="location_data" parent="SailingAppApp" startPc="268435963">
 <param id="data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436247" name="collect_2data" parent="SailingAppApp" startPc="268435975">
+<functionEntry accessMode="public" endPc="268436196" name="collect_2data" parent="SailingAppApp" startPc="268435989">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436297" name="onStop" parent="SailingAppApp" startPc="268436248">
+<functionEntry accessMode="public" endPc="268436246" name="onStop" parent="SailingAppApp" startPc="268436197">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436765" name="createfields" parent="SailingAppApp" startPc="268436298">
+<functionEntry accessMode="public" endPc="268436714" name="createfields" parent="SailingAppApp" startPc="268436247">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436871" name="collect_data" parent="SailingAppApp" startPc="268436766">
+<functionEntry accessMode="public" endPc="268436820" name="collect_data" parent="SailingAppApp" startPc="268436715">
 <param id="data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436886" name="initialize" parent="SailingAppApp" startPc="268436872">
+<functionEntry accessMode="public" endPc="268436835" name="initialize" parent="SailingAppApp" startPc="268436821">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437532" name="set_data" parent="SailingAppApp" startPc="268436887">
+<functionEntry accessMode="public" endPc="268437397" name="set_data" parent="SailingAppApp" startPc="268436836">
 <param id="tmp"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437599" name="onMenuItem" parent="SailingAppMenuDelegate" startPc="268437533">
+<functionEntry accessMode="public" endPc="268437464" name="onMenuItem" parent="SailingAppMenuDelegate" startPc="268437398">
 <param id="item"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437614" name="initialize" parent="SailingAppMenuDelegate" startPc="268437600">
+<functionEntry accessMode="public" endPc="268437479" name="initialize" parent="SailingAppMenuDelegate" startPc="268437465">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
@@ -383,37 +378,37 @@
 <functionEntry accessMode="public" name="onShow" parent="SailingAppView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437650" name="onLayout" parent="SailingAppView" startPc="268437615">
+<functionEntry accessMode="public" endPc="268437515" name="onLayout" parent="SailingAppView" startPc="268437480">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437664" name="update" parent="SailingAppView" startPc="268437651">
+<functionEntry accessMode="public" endPc="268437529" name="update" parent="SailingAppView" startPc="268437516">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437679" name="initialize" parent="SailingAppView" startPc="268437665">
+<functionEntry accessMode="public" endPc="268437544" name="initialize" parent="SailingAppView" startPc="268437530">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onHide" parent="SailingAppView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437863" name="onUpdate" parent="SailingAppView" startPc="268437680">
+<functionEntry accessMode="public" endPc="268437728" name="onUpdate" parent="SailingAppView" startPc="268437545">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437936" name="onMenu" parent="SailingAppDelegate" startPc="268437864">
+<functionEntry accessMode="public" endPc="268437801" name="onMenu" parent="SailingAppDelegate" startPc="268437729">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437951" name="initialize" parent="SailingAppDelegate" startPc="268437937">
+<functionEntry accessMode="public" endPc="268437816" name="initialize" parent="SailingAppDelegate" startPc="268437802">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438182" name="MainLayout" parent="Layouts" startPc="268437952">
+<functionEntry accessMode="public" endPc="268438047" name="MainLayout" parent="Layouts" startPc="268437817">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438194" name="&lt;init&gt;" parent="MainMenu" startPc="268438183">
+<functionEntry accessMode="public" endPc="268438059" name="&lt;init&gt;" parent="MainMenu" startPc="268438048">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438299" name="initialize" parent="MainMenu" startPc="268438195">
+<functionEntry accessMode="public" endPc="268438164" name="initialize" parent="MainMenu" startPc="268438060">
 <documentation/>
 </functionEntry>
 </functions>
