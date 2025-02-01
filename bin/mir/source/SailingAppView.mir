@@ -1,0 +1,147 @@
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 1; ]
+import Toybox.Graphics;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 2; ]
+import Toybox.Application;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 3; ]
+import Toybox.Lang;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 4; ]
+import Toybox.WatchUi;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 5; ]
+import Toybox.FitContributor;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 6; ]
+import Toybox.ActivityRecording;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 7; ]
+import Toybox.Timer;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 8; ]
+import Toybox.Position;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 9; ]
+import Toybox.Sensor;
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 11; ]
+class SailingAppView extends WatchUi.View{
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 11; ]
+    <init> {
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 11; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 13; ]
+    function update() as Void {
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_13_30_16_4_start:
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 14 8 ]
+        %tmp.1 = getm $.Toybox.WatchUi;
+        %tmp.2 = getv function %tmp.1 :requestUpdate;
+        invoke %tmp.1 %tmp.2();
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_13_30_16_4_stop:
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 18; ]
+    function initialize() as Void {
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_18_26_20_4_start:
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 19 8 ]
+        %tmp.2 = getv ? :View;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_18_26_20_4_stop:
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 23; ]
+    function onLayout(dc as Dc) as Void {
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_23_40_26_4_start:
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 24 8 ]
+        %tmp.1 = self;
+        %tmp.2 = getv function %tmp.1 :setLayout;
+        %tmp.4 = getv ? :Rez;
+        %tmp.5 = getv %tmp.4 :Layouts;
+        %tmp.6 = getv function %tmp.5 :MainLayout;
+        %tmp.8 = lgetv %dc;
+        %tmp.9 = invoke %tmp.5 %tmp.6(%tmp.8);
+        invoke %tmp.1 %tmp.2(%tmp.9);
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_23_40_26_4_stop:
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 31; ]
+    function onShow() as Void {
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 35; ]
+    function onUpdate(dc as Dc) as Void {
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_start:
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 36 8 ]
+        [ "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_start" "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_stop" ]
+        %hours.1 = local;
+        %tmp.2 = getv ? :Math;
+        %tmp.3 = getv function %tmp.2 :floor;
+        %tmp.5 = getv ? :timer;
+        %tmp.6 = 3600;
+        %tmp.7 = div %tmp.5 %tmp.6;
+        %tmp.8 = invoke %tmp.2 %tmp.3(%tmp.7);
+        lputv %hours.1 %tmp.8;
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 37 8 ]
+        [ "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_start" "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_stop" ]
+        %minutes.2 = local;
+        %tmp.10 = getv ? :Math;
+        %tmp.11 = getv function %tmp.10 :floor;
+        %tmp.13 = getv ? :timer;
+        %tmp.14 = 3600;
+        %tmp.15 = mod %tmp.13 %tmp.14;
+        %tmp.16 = 60;
+        %tmp.17 = div %tmp.15 %tmp.16;
+        %tmp.18 = invoke %tmp.10 %tmp.11(%tmp.17);
+        lputv %minutes.2 %tmp.18;
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 38 8 ]
+        [ "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_start" "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_stop" ]
+        %seconds.3 = local;
+        %tmp.20 = getv ? :Math;
+        %tmp.21 = getv function %tmp.20 :round;
+        %tmp.23 = getv ? :timer;
+        %tmp.24 = 60;
+        %tmp.25 = mod %tmp.23 %tmp.24;
+        %tmp.26 = invoke %tmp.20 %tmp.21(%tmp.25);
+        lputv %seconds.3 %tmp.26;
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 40 8 ]
+        [ "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_start" "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_stop" ]
+        %textstring.4 = local;
+        %tmp.27 = lgetv %hours.1;
+        %tmp.28 = getv function %tmp.27 :format;
+        %tmp.29 = "%02d";
+        %tmp.30 = invoke %tmp.27 %tmp.28(%tmp.29);
+        %tmp.31 = ":";
+        %tmp.32 = add %tmp.30 %tmp.31;
+        %tmp.33 = lgetv %minutes.2;
+        %tmp.34 = getv function %tmp.33 :format;
+        %tmp.35 = "%02d";
+        %tmp.36 = invoke %tmp.33 %tmp.34(%tmp.35);
+        %tmp.37 = add %tmp.32 %tmp.36;
+        %tmp.38 = ":";
+        %tmp.39 = add %tmp.37 %tmp.38;
+        %tmp.40 = lgetv %seconds.3;
+        %tmp.41 = getv function %tmp.40 :format;
+        %tmp.42 = "%02d";
+        %tmp.43 = invoke %tmp.40 %tmp.41(%tmp.42);
+        %tmp.44 = add %tmp.39 %tmp.43;
+        lputv %textstring.4 %tmp.44;
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 42 8 ]
+        [ "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_start" "C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_stop" ]
+        %timeText.5 = local;
+        %tmp.46 = getv ? :View;
+        %tmp.47 = getv function %tmp.46 :findDrawableById;
+        %tmp.48 = "time";
+        %tmp.49 = invoke %tmp.46 %tmp.47(%tmp.48);
+        %tmp.50 = as %tmp.49 WatchUi.Text;
+        lputv %timeText.5 %tmp.50;
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 44 8 ]
+        %tmp.51 = lgetv %timeText.5;
+        %tmp.52 = getv function %tmp.51 :setText;
+        %tmp.54 = lgetv %textstring.4;
+        invoke %tmp.51 %tmp.52(%tmp.54);
+[ "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc" 46 8 ]
+        %tmp.56 = getv ? :View;
+        %tmp.57 = getv function %tmp.56 :onUpdate;
+        %tmp.59 = lgetv %dc;
+        invoke %tmp.56 %tmp.57(%tmp.59);
+C_Users_Gymnasiet_SailingApp_source_SailingAppView_mc_35_40_47_4_stop:
+    }
+    [ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 52; ]
+    function onHide() as Void {
+    }
+}
+[ @file = "C:\Users\Gymnasiet\SailingApp\source\SailingAppView.mc"; @line = 1; ]
+<init> {
+}

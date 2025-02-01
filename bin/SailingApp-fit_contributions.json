@@ -1,0 +1,196 @@
+{
+  "datafields" : [ {
+    "id" : 1,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 1,
+    "precision" : 0,
+    "fill-color" : null
+  }, {
+    "id" : 2,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 2,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 3,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 3,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 4,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 4,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 5,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 5,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 6,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 6,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 7,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 7,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 8,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 8,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 9,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 9,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 10,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 10,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 11,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 11,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 12,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 12,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 13,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 13,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 14,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 14,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 15,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 15,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 16,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 16,
+    "precision" : 2,
+    "fill-color" : null
+  }, {
+    "id" : 17,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "menu_label_1",
+    "unit-label-key" : "menu_label_2",
+    "sort-order" : 17,
+    "precision" : 2,
+    "fill-color" : null
+  } ],
+  "strings" : {
+    "default" : {
+      "menu_label_1" : "Item 1",
+      "menu_label_2" : "Item 2"
+    }
+  }
+}

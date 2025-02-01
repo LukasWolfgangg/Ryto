@@ -1,0 +1,53 @@
+<fitContributions>
+    <fitField id="1" displayInChart="true" sortOrder = "1" precision="0"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="2" displayInChart="true" sortOrder = "2" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="3" displayInChart="true" sortOrder = "3" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="4" displayInChart="true" sortOrder = "4" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="5" displayInChart="true" sortOrder = "5" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="6" displayInChart="true" sortOrder = "6" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="7" displayInChart="true" sortOrder = "7" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="8" displayInChart="true" sortOrder = "8" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="9" displayInChart="true" sortOrder = "9" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="10" displayInChart="true" sortOrder = "10" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="11" displayInChart="true" sortOrder = "11" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="12" displayInChart="true" sortOrder = "12" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="13" displayInChart="true" sortOrder = "13" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="14" displayInChart="true" sortOrder = "14" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="15" displayInChart="true" sortOrder = "15" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="16" displayInChart="true" sortOrder = "16" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+    <fitField id="17" displayInChart="true" sortOrder = "17" precision="2"
+    dataLabel="@Strings.menu_label_1"
+    unitLabel="@Strings.menu_label_2" />
+</fitContributions>
