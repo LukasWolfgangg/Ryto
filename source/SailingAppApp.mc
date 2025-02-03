@@ -93,7 +93,6 @@ class SailingAppApp extends Application.AppBase {
     }
 
     function location_data(data as $.Toybox.Position.Info) as Void{
-        SOGData0 = data.speed;
         DegData = data.position.toDegrees();
     }
 
@@ -110,19 +109,22 @@ class SailingAppApp extends Application.AppBase {
 
         if (callbackcounter==0) {
             COGData0 = sensorInfo.heading;
+            SOGData0 = sensorInfo.speed;
         }
         if (callbackcounter==1) {
             COGData1 = sensorInfo.heading;
+            SOGData1 = sensorInfo.speed;
         }
         if (callbackcounter==2) {
             COGData2 = sensorInfo.heading;
+            SOGData2 = sensorInfo.speed;
         }
         if (callbackcounter==3) {
             COGData3 = sensorInfo.heading;
-            callbackcounter = 0;
+            SOGData3 = sensorInfo.speed;
+            callbackcounter = -1;
         }
         callbackcounter = callbackcounter + 1;
-        positionInfo = null;
         sensorInfo = null;
     }
 
@@ -143,9 +145,9 @@ class SailingAppApp extends Application.AppBase {
 
         if (SOGData0 != null) {
             SOGField0.setData(SOGData0);
-            //SOGField1.setData(SOGData1);
-            //SOGField2.setData(SOGData2);
-            //SOGField3.setData(SOGData3);
+            SOGField1.setData(SOGData1);
+            SOGField2.setData(SOGData2);
+            SOGField3.setData(SOGData3);
         }
         else{
             SOGField0.setData(-1);
@@ -175,7 +177,6 @@ class SailingAppApp extends Application.AppBase {
         }
 
         if (degdata != [-1,-1]) {
-            System.println(degdata);
             LatField.setData(degdata[0]);
             LonField.setData(degdata[1]);
         } else {
