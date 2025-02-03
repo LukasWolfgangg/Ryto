@@ -93,9 +93,8 @@ class SailingAppApp extends Application.AppBase {
     }
 
     function location_data(data as $.Toybox.Position.Info) as Void{
-        if (data != positionInfo) {
-            positionInfo = data;
-        }
+        SOGData0 = data.speed;
+        DegData = data.position.toDegrees();
     }
 
     function collect_data(data as $.Toybox.Sensor.SensorData) as Void {
@@ -110,25 +109,21 @@ class SailingAppApp extends Application.AppBase {
         sensorInfo = Sensor.getInfo() as $.Toybox.Sensor.Info;
 
         if (callbackcounter==0) {
-            PosData = positionInfo.position;
             COGData0 = sensorInfo.heading;
-            SOGData0 = positionInfo.speed;
         }
         if (callbackcounter==1) {
             COGData1 = sensorInfo.heading;
-            //SOGData1 = positionInfo.speed;
         }
         if (callbackcounter==2) {
             COGData2 = sensorInfo.heading;
-            //SOGData2 = positionInfo.speed;
         }
         if (callbackcounter==3) {
             COGData3 = sensorInfo.heading;
-            //SOGData3 = positionInfo.speed;
             callbackcounter = 0;
         }
         callbackcounter = callbackcounter + 1;
         positionInfo = null;
+        sensorInfo = null;
     }
 
     function set_data(tmp as Array<Float>) as Void {
@@ -166,7 +161,7 @@ class SailingAppApp extends Application.AppBase {
             PitchField.setData(-1);
         }
 
-        if (RollData0 != null) {
+        if (RollData0 != null and RollData1 != null and RollData2 != null and RollData3 != null) {
             RollField0.setData(RollData0);
             RollField1.setData(RollData1);
             RollField2.setData(RollData2);
@@ -179,7 +174,8 @@ class SailingAppApp extends Application.AppBase {
             RollField3.setData(-1);
         }
 
-        if (PosData != null) {
+        if (degdata != [-1,-1]) {
+            System.println(degdata);
             LatField.setData(degdata[0]);
             LonField.setData(degdata[1]);
         } else {
