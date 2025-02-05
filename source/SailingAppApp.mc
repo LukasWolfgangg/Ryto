@@ -15,8 +15,6 @@ class SailingAppApp extends Application.AppBase {
     var datatimer = new Timer.Timer();
     var datatimerrunning = false;
     var callbackcounter = 0;
-    var positionInfo;
-    var lastPositionData;
     var sensorInfo;
 
     var COGField0;
@@ -48,7 +46,6 @@ class SailingAppApp extends Application.AppBase {
     var RollData1 = -1;
     var RollData2 = -1;
     var RollData3 = -1;
-    var PosData;
     var DegData = [-1, -1];
 
     function initialize() {
@@ -143,7 +140,7 @@ class SailingAppApp extends Application.AppBase {
             COGField3.setData(-1);  
         }
 
-        if (SOGData0 != null) {
+        if (SOGData0 != null and SOGData1 != null and SOGData2 != null and SOGData3 != null) {
             SOGField0.setData(SOGData0);
             SOGField1.setData(SOGData1);
             SOGField2.setData(SOGData2);
@@ -176,7 +173,7 @@ class SailingAppApp extends Application.AppBase {
             RollField3.setData(-1);
         }
 
-        if (degdata != [-1,-1]) {
+        if (degdata != [-1,-1] and degdata != [null, null] and degdata != null) {
             LatField.setData(degdata[0]);
             LonField.setData(degdata[1]);
         } else {
