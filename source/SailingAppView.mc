@@ -10,9 +10,9 @@ import Toybox.Sensor;
 
 class SailingAppView extends WatchUi.View {
 
+    // Method called when SailingAppApp.mc wants to update the view
     function update() as Void {
         WatchUi.requestUpdate();
-
     }
     
     function initialize() {
@@ -31,7 +31,7 @@ class SailingAppView extends WatchUi.View {
     function onShow() as Void {
     }
 
-    // Update the view
+    // Update the view using the global timer variable from SailingAppApp.mc
     function onUpdate(dc as Dc) as Void {
         var hours = Math.floor(timer / 3600);
         var minutes = Math.floor((timer % 3600) / 60);

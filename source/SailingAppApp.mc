@@ -55,44 +55,55 @@ class SailingAppApp extends Application.AppBase {
     // onStart() is called on application start up
     function onStart(state as Dictionary?) as Void {
         view = new SailingAppView();
-        
+
+        // Create and start recording session as sailing activity type
         session = ActivityRecording.createSession({:name=>"Sailing ", :sport=>Activity.SPORT_SAILING});
         session.start();
+
+        // Initalize all fields to be stored in Fit-file
         createfields();
     
+        // Sensor data-listener setup specifics
         var Sensoroptions = {
-            :period => 1,               
+            :period => 1, 
+            // Callback method called every 1 second
+
             :accelerometer => {
                 :enabled => true,
-                :sampleRate => 4,
+                :sampleRate => 4, // 4 samples per period
                 :includePitch => true,
                 :includeRoll => true      
             }
         };
 
+        // Position data-listener setup specifics
         var Posoptions = {
             :acquisitionType => Position.LOCATION_CONTINUOUS
         };
-       
+
+        // Initalize sensor and position listeners
         Sensor.registerSensorDataListener(method(:collecttimer), Sensoroptions);
         Position.enableLocationEvents(Posoptions, method(:location_data));
     }
 
+    // Callback method for sensor listener
     function collecttimer(data as $.Toybox.Sensor.SensorData) as Void {
         timer += 1;
         view.update();
-        collect_data(data);
+        collect_data(data); // Collect accelerometer data, passing on data parameter
         if (datatimerrunning == false) {
-            datatimer.start(method(:collect_2data), 250, true);
-            datatimerrunning = true;
+            datatimer.start(method(:collect_2data), 250, true); // Speed and COG data collector called every 250 milliseconds
+            datatimerrunning = true; 
         }
-        set_data(DegData);
+        set_data(DegData); // Set the collected data to the fields
     }
 
+    // Callback mathod for position listener, called every second when position is active
     function location_data(data as $.Toybox.Position.Info) as Void{
         DegData = data.position.toDegrees();
     }
 
+    // Collect accelerometer data
     function collect_data(data as $.Toybox.Sensor.SensorData) as Void {
         PitchData = data.accelerometerData.pitch[0];
         RollData0 = data.accelerometerData.roll[0];
@@ -101,6 +112,7 @@ class SailingAppApp extends Application.AppBase {
         RollData3 = data.accelerometerData.roll[3];
     }
 
+    // Collect speed and heading data using callbackcounter to get values every 250 milliseconds
     function collect_2data() as Void {
         sensorInfo = Sensor.getInfo() as $.Toybox.Sensor.Info;
 
@@ -125,6 +137,7 @@ class SailingAppApp extends Application.AppBase {
         sensorInfo = null;
     }
 
+    // Set the collected data to fields
     function set_data(tmp as Array<Float>) as Void {
         var degdata = tmp;
         if (COGData0 != null and COGData1 != null and COGData2 != null and COGData3 != null) {
@@ -182,6 +195,7 @@ class SailingAppApp extends Application.AppBase {
         }
     }
 
+    // Initalize fields stored inside the Fit-file
     function createfields() as Void {
         COGField0 = session.createField("COG0", 2, FitContributor.DATA_TYPE_FLOAT, {});
         COGField1 = session.createField("COG1", 3, FitContributor.DATA_TYPE_FLOAT, {});
