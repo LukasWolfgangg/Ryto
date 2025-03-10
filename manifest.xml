@@ -5,7 +5,7 @@
         Use "Monkey C: Edit Application" from the Visual Studio Code command palette
         to update the application attributes.
     -->
-    <iq:application id="5050a07a-1dcd-4c4b-9fee-af9058b7e9bb" type="watch-app" name="@Strings.AppName" entry="SailingAppApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="1.2.0">
+    <iq:application id="ec5e50b2-49e2-4d91-bac2-5b6daeee59ab" type="watch-app" name="@Strings.AppName" entry="SailingAppApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="1.2.0">
         <!--
             Use the following from the Visual Studio Code comand palette to edit
             the build targets:
